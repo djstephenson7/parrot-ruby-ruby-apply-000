@@ -7,5 +7,3 @@ def parrot(noise)
   puts noise
   return noise
 end
-
-puts parrot
